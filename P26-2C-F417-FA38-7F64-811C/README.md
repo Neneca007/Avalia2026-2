@@ -4,7 +4,7 @@
 - **Estudante:** Emanuell Ernesto Costa Maciel
 - **Turma:** 2C
 - **Chave Única:** `P26-2C-F417-FA38-7F64-811C`
-- **URL_CLOUDFLARE:** `https://p26-2c-f417-fa38-7f64-811c.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
+- **URL_CLOUDFLARE:** `https://avalia2026-blog.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
 
 ---
 
@@ -40,7 +40,7 @@ Os artigos, comentários e curtidas são persistidos no Cloudflare D1. O backend
    - Na aba **OAuth2**:
      - Copie o **Client ID** e gere o **Client Secret**.
      - Em **Redirects**, adicione a URL exata do deploy:
-       `https://p26-2c-f417-fa38-7f64-811c.pages.dev/api/auth/discord/callback`
+       `https://avalia2026-blog.pages.dev/api/auth/discord/callback`
    - No painel do seu projeto no Cloudflare Pages:
      - Acesse **Settings** → **Environment variables**.
      - Adicione as variáveis de ambiente:
